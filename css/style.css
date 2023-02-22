@@ -58,3 +58,21 @@ text-transform: capitalize;
     margin-top: 6px;
     font-size: 16px;
 }
+.content{
+    width: 600px;
+    padding:100px 450px;
+}
+.content h1{
+    font-weight: 500;
+    font-size: 30px;
+}
+.content .top{
+font-size: 20px;
+font-weight: 200;
+margin-top: 8px;
+
+}
+.content .bottom{
+    font-size: 16px;
+    margin-top: 14px;
+}
