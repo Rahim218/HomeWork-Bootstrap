@@ -35,26 +35,30 @@ nav a {
 .full-width-back{
 background-image: url(/images/2.jpg);
 width: 100%;
+height: 450px;
 background-repeat: no-repeat;
 background-size: cover;
 opacity: 0.9;
-padding:100px 600px;
 color: white;
 text-transform: capitalize;
+
 
 }
 .full-width-back img {
     width: 250px;
+    margin-left: 600px;
     border-radius: 100px;
+    margin-top: 120px;
 }
 .full-width-back h1{
     
     font-size: 30px;
-    padding-left: 30px;
+    padding-left: 620px;
     margin-top: 20px;
 }
 .full-width-back p {
-    padding-left: 55px;
+
+    padding-left: 640px;
     margin-top: 6px;
     font-size: 16px;
 }
@@ -66,13 +70,33 @@ text-transform: capitalize;
     font-weight: 500;
     font-size: 30px;
 }
-.content .top{
+.content .p-top{
 font-size: 20px;
 font-weight: 200;
 margin-top: 8px;
 
 }
-.content .bottom{
+.content .p-bottom{
     font-size: 16px;
     margin-top: 14px;
 }
+.background-sea{
+    background-image: url(/images/sea1.jpg);
+    width: 100%;
+    height: 360px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+}
+.footer {
+    background-color: rgba(0, 0, 0, 0.844);  
+    height: 100px;
+
+}
+.footer h3{
+    text-align: center;
+    padding-top: 45px;
+    color: white
+    ;
+}
+   
