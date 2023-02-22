@@ -1,0 +1,31 @@
+* {
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+}
+
+.header {
+    display: flex;
+    justify-content: space-between;
+    background-color: rgba(0, 0, 0, 0.844);  
+    height: 70px;
+    
+    
+}
+.header-left{
+    padding: 18px 186px;
+        
+}
+.header-left a{
+    color: white;
+    font-size: 26px;
+}
+
+nav{
+    padding: 28px 140px;
+    word-spacing: 20px;  
+}
+nav a {
+    color: white;
+    font-size:18px ;
+}
